@@ -1,0 +1,12 @@
+# Ejecutables y archivos pesados
+*.dll
+*.pak
+*.bin
+*.dat
+*.log
+*.exe
+
+# Carpetas internas de PHP Desktop
+php/
+locales/
+webcache/

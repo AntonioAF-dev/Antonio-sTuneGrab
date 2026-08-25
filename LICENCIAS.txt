@@ -1,0 +1,30 @@
+Este software utiliza herramientas de código abierto de terceros para su funcionamiento. 
+A continuación, se detallan los créditos y las licencias correspondientes:
+
+1. yt-dlp
+   Licencia: Unlicense / GPLv3+ (por dependencias empaquetadas como PyInstaller)
+   Código fuente y detalles: https://github.com/yt-dlp/yt-dlp
+   Propósito: Motor principal para la descarga de audio y video.
+
+2. FFmpeg
+   Licencia: GPL / LGPL
+   Código fuente y detalles: https://ffmpeg.org/
+   Propósito: Procesamiento y conversión de formatos multimedia (unión de audio y video, extracción de mp3).
+
+3. PHP Desktop
+   Licencia: BSD 3-Clause (Libre para uso comercial y personal)
+   Código fuente y detalles: https://github.com/cztomczak/phpdesktop
+   Propósito: Entorno de ejecución y motor web (Chromium + PHP) que permite que esta aplicación web funcione como un programa de escritorio nativo de Windows sin depender de navegadores externos.
+
+4. Bibliotecas Frontend (SweetAlert2, FontAwesome, etc.)
+   Licencia: MIT / SIL OFL
+   Propósito: Estilos visuales, iconos y alertas de la interfaz de usuario.
+
+-------------------------------------------------------------------
+Integración y Desarrollo de la Interfaz Gráfica:
+AntonioAF-dev
+https://github.com/AntonioAF-dev
+-------------------------------------------------------------------
+
+Aviso legal: 
+Se incluyen los ejecutables originales (yt-dlp.exe, ffmpeg.exe, phpdesktop-chrome.exe) sin modificaciones en su código fuente original. El presente programa actúa exclusivamente como una interfaz gráfica interactiva que se comunica con estas herramientas externas a través de la línea de comandos o peticiones de red locales. Esta forma de distribución cumple con los requisitos de "mera agregación" o comunicación externa típicos de licencias de código abierto como la GPL.
