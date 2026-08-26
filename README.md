@@ -15,7 +15,7 @@
 
 ## 📖 Acerca del Proyecto
 
-**Antonio's TuneGrab** (anteriormente conocido como MusicDown Pro) es una potente aplicación de escritorio para Windows diseñada para descargar música y videos desde YouTube y otras plataformas soportadas. 
+**Antonio's TuneGrab** es una potente aplicación de escritorio para Windows diseñada para descargar música y videos desde YouTube y otras plataformas soportadas. 
 
 Proporciona una interfaz gráfica moderna, intuitiva y profesional para herramientas de línea de comandos estándar de la industria como `yt-dlp` y `FFmpeg`, evitando que el usuario tenga que interactuar con terminales complejas. Gracias a la tecnología de **PHP Desktop**, la aplicación web funciona de forma nativa en tu computadora sin depender de servidores o navegadores externos.
 
