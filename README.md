@@ -7,6 +7,8 @@
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-blue.svg)](#)
 [![Desarrollador](https://img.shields.io/badge/Desarrollador-AntonioAF--dev-purple.svg)](https://github.com/AntonioAF-dev)
 
+### 📥 [Descargar Última Versión (v1.0.0)](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.0)
+
 </div>
 
 ---
@@ -51,8 +53,8 @@ Dado que el programa utiliza binarios compilados portables, la instalación es m
 Asegúrate de que los ejecutables `yt-dlp.exe` y `ffmpeg.exe` (junto con `ffprobe.exe`) estén presentes en la carpeta `www/MusicDown/` de este proyecto.
 
 ### Cómo ejecutarlo
-1. Descarga o clona este repositorio en tu computadora con Windows.
-2. Simplemente haz doble clic en el archivo `phpdesktop-chrome.exe` (puedes cambiarle el nombre o crearle un acceso directo si lo deseas).
+1. [**Descarga el archivo ZIP desde la sección de Releases**](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.0) y extráelo en tu computadora.
+2. Simplemente haz doble clic en el archivo `Antonio's TuneGrab.exe` para abrir la aplicación.
 3. ¡La interfaz gráfica se abrirá de inmediato! No aparecerán consolas de depuración molestas de fondo.
 
 ### Uso Básico
