@@ -10,3 +10,7 @@
 php/
 locales/
 webcache/
+
+# Archivos temporales y de búsqueda
+www/MusicDown/search_results.json
+*.tmp

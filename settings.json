@@ -13,12 +13,12 @@
         "title": "Antonio's TuneGrab",
         "icon": "www/MusicDown/icon.ico",
         "default_size": [
-            800,
-            600
+            1280,
+            800
         ],
         "minimum_size": [
-            640,
-            480
+            1050,
+            650
         ],
         "maximum_size": [
             0,
@@ -70,7 +70,9 @@
         "remote_debugging_port": 0,
         "runtime_style": "alloy",
         "command_line_switches": {
-            "disable-gpu": ""
+            "disable-gpu": "",
+            "autoplay-policy": "no-user-gesture-required",
+            "enable-media-stream": ""
         },
         "enable_downloads": true,
         "context_menu": {
