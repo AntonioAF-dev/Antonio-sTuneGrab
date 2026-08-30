@@ -7,7 +7,7 @@
 [![Plataforma](https://img.shields.io/badge/Plataforma-Windows-blue.svg)](#)
 [![Desarrollador](https://img.shields.io/badge/Desarrollador-AntonioAF--dev-purple.svg)](https://github.com/AntonioAF-dev)
 
-### 📥 [Descargar Última Versión (v1.0.0)](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.0)
+### 📥 [Descargar Última Versión (v1.0.1)](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.0)
 
 </div>
 
