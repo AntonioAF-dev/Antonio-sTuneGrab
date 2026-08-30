@@ -53,7 +53,7 @@ Dado que el programa utiliza binarios compilados portables, la instalación es m
 Asegúrate de que los ejecutables `yt-dlp.exe` y `ffmpeg.exe` (junto con `ffprobe.exe`) estén presentes en la carpeta `www/MusicDown/` de este proyecto.
 
 ### Cómo ejecutarlo
-1. [**Descarga el archivo ZIP desde la sección de Releases**](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.0) y extráelo en tu computadora.
+1. [**Descarga el archivo ZIP desde la sección de Releases**](https://github.com/AntonioAF-dev/Antonio-sTuneGrab/releases/tag/v1.0.1) y extráelo en tu computadora.
 2. Simplemente haz doble clic en el archivo `Antonio's TuneGrab.exe` para abrir la aplicación.
 3. ¡La interfaz gráfica se abrirá de inmediato! No aparecerán consolas de depuración molestas de fondo.
 
