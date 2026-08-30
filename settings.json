@@ -6,8 +6,8 @@
     "debugging": {
         "show_console": false,
         "subprocess_show_console": false,
-        "log_level": "DEBUG4",
-        "log_file": "debug.log"
+        "log_level": "ERROR",
+        "log_file": ""
     },
     "main_window": {
         "title": "Antonio's TuneGrab",
@@ -56,12 +56,12 @@
             "php"
         ],
         "cgi_temp_dir": "",
-        "404_handler": "/pretty-urls.php",
+        "404_handler": "",
         "hide_files": []
     },
     "chrome": {
-        "log_file": "debug.log",
-        "log_severity": "default",
+        "log_file": "",
+        "log_severity": "disable",
         "cache_path": "webcache",
         "external_drag": true,
         "external_navigation": true,
